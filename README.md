@@ -1,3 +1,11 @@
+![alt text](https://raw.githubusercontent.com/SamWeninger/Awesome-CV/master/examples/cv.png)
+
+[Resume](https://raw.githubusercontent.com/SamWeninger/Awesome-CV/master/examples/cv.pdf)
+
+
+***
+
+
 <h1 align="center">
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
     <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
@@ -46,17 +54,6 @@ Please help keep this project alive! Donations are welcome and will go towards f
     QTUM: QZT7D6m3QtTTqp7s4ZWAwLtGDsoHMMaM8E
 
 *Thank you for your support!*
-
-## Preview
-
-#### Cover Letter
-
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
-
-| Page. 1 | Page. 2 |
-|:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
-
 
 ## Quick Start
 
