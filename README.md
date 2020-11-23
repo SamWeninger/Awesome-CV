@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/SamWeninger/Awesome-CV/master/examples/cv.png)
 
-[Resume](https://raw.githubusercontent.com/SamWeninger/Awesome-CV/master/examples/cv.pdf)
+[Samuel Weninger's Resume](https://raw.githubusercontent.com/SamWeninger/Awesome-CV/master/examples/cv.pdf)
 
 
 ***
